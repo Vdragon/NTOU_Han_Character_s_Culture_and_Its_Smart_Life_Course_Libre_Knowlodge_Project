@@ -1,0 +1,5 @@
+*.png filter=lfs diff=lfs merge=lfs -crlf
+*.jpg filter=lfs diff=lfs merge=lfs -crlf
+*.pdf filter=lfs diff=lfs merge=lfs -crlf
+*.ppt filter=lfs diff=lfs merge=lfs -crlf
+*.pptx filter=lfs diff=lfs merge=lfs -crlf
